@@ -11,7 +11,6 @@ package jp.co.seiko_sol;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 /**
  * 自動アサインバッチ処理（ID：B030514）用Applicationクラス.<br>
  * アプリケーションのメイン処理を記述する。
