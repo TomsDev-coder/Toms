@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 15
-Implementation-Title: B030514
-Implementation-Version: 2.0.3.20210604-${revision}
-Created-By: Maven Integration for Eclipse
-
